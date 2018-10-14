@@ -1,0 +1,13 @@
+x    y   z   color  myvalue
+0.5  0.2  1.5  1    \cite{romero_unsupervised_2016}
+0.2  0.1  2.2  2    \cite{xu2018youtube}
+1    1.0  1    1     \cite{gibson_niftynet:_2018}
+1.5  1.5  1.5  2     \cite{milletari_vnet}
+2.0  2.0  2    2     \cite{avendi_combined_2016}
+2.5  2.5  2.5  2     \cite{zhao_deep_2018}
+3.0  3    3    2     \cite{Moeskops_automatic_segmentation}
+3.5  3.5  3.5  2     \cite{NgoLC17_combining}
+4.0  4    4    2     \cite{liskowski_segmenting_2016}
+4.5  4.5  4.5  2     \cite{kamnitsas_unsupervised_2017}
+5.0  5.0  5    2     \cite{prasoon_deep_2013}
+5.5  5.5  5.5  2     \cite{zhang_deep_2015}
